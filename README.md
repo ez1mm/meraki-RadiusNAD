@@ -4,7 +4,7 @@ Displays list of IP addresses or output to CSV.
 
 ## Overview
 
-Generates IP address for MR / MS / MX / Z3 / Z4 devices, following Alternate Management Interfaces and MX rules for determining the proper IP address when necessary.
+Generates IP address for MR / CW / MS / MX / Z3 / Z4 devices, following Alternate Management Interfaces and MX rules for determining the proper IP address when necessary.
 
 https://documentation.meraki.com/MR/Other_Topics/Alternate_Management_Interface_on_MR_Devices
 https://documentation.meraki.com/MS/Other_Topics/Alternate_Management_Interface_on_MS_Devices
