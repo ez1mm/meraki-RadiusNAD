@@ -45,7 +45,7 @@ options:
   -d                    debug
 ```
 
-You must provide an Organization (-o) as an option, if you provide a Network name (-n) only that network will be parsed, if you do not specify a network, all eligible Networks in the Organization will be parsed.
+You must provide an Organization (-o) as an option, if you provide a Network name (-n) only that network will be parsed, if you do not specify a network, all eligible Networks in the Organization will be parsed. If you do not specify device types (--type) only MR will be parsed.
 
 ## Example
 ```
